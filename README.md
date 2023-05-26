@@ -1,2 +1,2 @@
-# basic-html-project
-A basic HTML project as first project in Web Dev learning course.
+# basic-html-resume
+A basic HTML resume as first project in Web Dev learning course.
